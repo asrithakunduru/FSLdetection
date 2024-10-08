@@ -39,3 +39,18 @@ This project showcases a robust system for FSL recognition using the ResNet50 mo
 
 ## License
 This project is licensed under the MIT License.
+
+
+##Sample images in the dataset created
+![image](https://github.com/user-attachments/assets/70833067-e418-4513-8f72-215548effaaa)
+
+##Visualization of training, testing and validation accuracies
+![image](https://github.com/user-attachments/assets/28e03634-680d-4432-9295-8e6171fce9dc)
+
+##Real-time Detection
+
+![image](https://github.com/user-attachments/assets/d04e9f4f-85ee-4f82-8272-3a83b93f8c6b)
+
+
+
+
